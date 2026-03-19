@@ -7,8 +7,8 @@ Welcome to the official distribution hub for the **WoSB Overlay**! This tool is 
 Go to the [**Latest Release**](https://github.com/temperinux/wosb-overlay-releases/releases/latest) to download the app.
 
 We provide two formats:
-- **`WoSB Overlay Setup 1.0.0.exe` (Installer)**: Standard Windows installer (adds to Start Menu/Desktop).
-- **`WoSB Overlay-1.0.0-win.zip` (Portable)**: No installation. Just unzip and run.
+- **`WoSB Overlay Setup 1.0.2.exe` (Installer)**: Standard Windows installer (adds to Start Menu/Desktop).
+- **`WoSB Overlay-1.0.2-win.zip` (Portable)**: No installation. Just unzip and run.
 
 ---
 
